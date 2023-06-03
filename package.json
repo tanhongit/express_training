@@ -1,0 +1,20 @@
+{
+  "name": "express-training",
+  "version": "1.0.0",
+  "description": "training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanhongit/express_training.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanhongit/express_training/issues"
+  },
+  "homepage": "https://github.com/tanhongit/express_training#readme",
+  "type": "module" //  Using ES6 modules
+}
