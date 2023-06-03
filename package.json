@@ -16,5 +16,8 @@
     "url": "https://github.com/tanhongit/express_training/issues"
   },
   "homepage": "https://github.com/tanhongit/express_training#readme",
-  "type": "module" //  Using ES6 modules
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
